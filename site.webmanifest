@@ -1,0 +1,14 @@
+{
+  "name": "M/S Ripa Enterprise",
+  "short_name": "Ripa Enterprise",
+  "start_url": "/",
+  "display": "standalone",
+  "description": "Construction & civil infrastructure contractor in Bangladesh.",
+  "icons": [
+    {
+      "src": "assets/ripa-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
